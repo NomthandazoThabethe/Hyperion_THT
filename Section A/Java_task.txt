@@ -1,0 +1,18 @@
+
+Correctness = 1
+Efficiency  = 2
+Style	    = 2
+Documentation = 3
+
+General spacing and coding style is inconsistent and should be more uniform to make the code easier to read.
+
+Line 6  -- for testing purpuses rather take input
+Line 11 -- hardcoded the fibonacci series
+Line 17 -- Documentation Comment would have been better
+Line 25 -- Printing every step of the recursion is good for debugging but is not necessary to keep in the code after you get it working.
+Line 26 -- reverseString is not the same as reverse_string
+Line 28 -- Function is never used
+Line 30 -- maxNumber is already defined or passed in as a parameter
+Line 38 to 40 -- the comments in these lines could have been a multi-line comment instead of having all the comments lined up like this.
+
+

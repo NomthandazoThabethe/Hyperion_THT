@@ -1,0 +1,11 @@
+Correctness = 3
+Efficiency  = 3
+Style	    = 4
+Documentation = 4
+
+
+
+line 5 -- shift assigned String instead of a number.
+line 13 -- comparing a number to a string is wrong
+line 33 -- trying to calculate different data types will not work. A string and number.
+line 51 -- passing a different data type string than the expected type.
